@@ -12,7 +12,7 @@ function esBisiesto(anio) {
         return "Es bisiesto";
     } 
     return "No es bisiesto";
-}
+} 
 
 console.log("-----------------------------------")
 console.log("EJERCICIO 10")
