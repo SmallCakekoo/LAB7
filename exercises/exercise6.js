@@ -11,7 +11,7 @@ function calcularDescuento(precio, porcentaje) {
     } else {
         return precio - (precio * (porcentaje / 100));
     }
-}
+} 
 
 console.log("-----------------------------------")
 console.log("EJERCICIO 6")
