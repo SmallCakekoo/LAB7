@@ -9,7 +9,7 @@ function esPar(numero) {
     } else {
         return "El número es impar (7)";
     }
-} 
+}
 
 console.log("-----------------------------------")
 console.log("EJERCICIO 2")
