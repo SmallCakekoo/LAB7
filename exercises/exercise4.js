@@ -22,7 +22,7 @@ function calculadora(operacion, num1, num2) {
             return "Operación no reconocida";
     }
 }
-
+ 
 console.log("-----------------------------------")
 console.log("EJERCICIO 4")
 console.log("-----------------------------------")
