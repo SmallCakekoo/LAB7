@@ -16,7 +16,7 @@ function clasificarEdad(edad) {
     } else if (edad >= 65) {
         return "Adulto mayor";
     }
-}
+} 
 
 console.log("-----------------------------------")
 console.log("EJERCICIO 5")
