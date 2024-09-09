@@ -12,7 +12,7 @@ function mayorDeDos(num1, num2) {
     } else {
         return "Los números son iguales";
     }
-}
+} 
 
 console.log("-----------------------------------")
 console.log("EJERCICIO 3")
