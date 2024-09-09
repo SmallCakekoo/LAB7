@@ -9,7 +9,7 @@ function saludar(nombre) {
     if (!nombre) {
         return "Hola, desconocido";
     } else {
-        return "Hola, " + nombre;
+        return "Hola, " + nombre; 
     }
 }
 console.log("-----------------------------------")
