@@ -22,7 +22,7 @@ function calcularIMC(peso, altura) {
     } else {
         return "Obesidad";
     }
-}
+} 
 
 console.log("-----------------------------------")
 console.log("EJERCICIO 8")
