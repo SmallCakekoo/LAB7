@@ -13,7 +13,7 @@ function convertirTemperatura(temperatura, escala) {
     } else {    
         return "Escala no válida";
     }
-}
+} 
 
 console.log("-----------------------------------")
 console.log("EJERCICIO 9")
